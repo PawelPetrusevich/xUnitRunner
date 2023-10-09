@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "emrJFmBjqM+ihaNYp8EfAuDnTfuKtPwFpXokbU2mvaY=",
+  "Source": "WireMockTest",
+  "BasePath": "_content/WireMockTest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

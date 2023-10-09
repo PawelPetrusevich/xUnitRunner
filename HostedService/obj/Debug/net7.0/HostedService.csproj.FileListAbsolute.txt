@@ -1,0 +1,12 @@
+C:\Users\NEW-PC-HOME\RiderProjects\WireMockTest\HostedService\bin\Debug\net7.0\HostedService.deps.json
+C:\Users\NEW-PC-HOME\RiderProjects\WireMockTest\HostedService\bin\Debug\net7.0\HostedService.dll
+C:\Users\NEW-PC-HOME\RiderProjects\WireMockTest\HostedService\bin\Debug\net7.0\HostedService.pdb
+C:\Users\NEW-PC-HOME\RiderProjects\WireMockTest\HostedService\obj\Debug\net7.0\HostedService.csproj.AssemblyReference.cache
+C:\Users\NEW-PC-HOME\RiderProjects\WireMockTest\HostedService\obj\Debug\net7.0\HostedService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NEW-PC-HOME\RiderProjects\WireMockTest\HostedService\obj\Debug\net7.0\HostedService.AssemblyInfoInputs.cache
+C:\Users\NEW-PC-HOME\RiderProjects\WireMockTest\HostedService\obj\Debug\net7.0\HostedService.AssemblyInfo.cs
+C:\Users\NEW-PC-HOME\RiderProjects\WireMockTest\HostedService\obj\Debug\net7.0\HostedService.csproj.CoreCompileInputs.cache
+C:\Users\NEW-PC-HOME\RiderProjects\WireMockTest\HostedService\obj\Debug\net7.0\HostedService.dll
+C:\Users\NEW-PC-HOME\RiderProjects\WireMockTest\HostedService\obj\Debug\net7.0\refint\HostedService.dll
+C:\Users\NEW-PC-HOME\RiderProjects\WireMockTest\HostedService\obj\Debug\net7.0\HostedService.pdb
+C:\Users\NEW-PC-HOME\RiderProjects\WireMockTest\HostedService\obj\Debug\net7.0\ref\HostedService.dll

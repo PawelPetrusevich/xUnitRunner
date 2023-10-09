@@ -1,0 +1,16 @@
+﻿openapi: 3.0.1
+info:
+  title: Holiday Api
+  description: API description in Markdown.
+  version: 1.0.0
+servers:
+  - url: https://api.example.com
+    description: Production
+paths:
+  /users:
+    get:
+      summary: Returns a list of users.
+      description: Optional extended description in Markdown.
+      responses:
+        '200':
+          description: OK

@@ -1,0 +1,14 @@
+C:\Users\NEW-PC-HOME\RiderProjects\WireMockTest\XUnitRunerOverload\bin\Debug\net7.0\XUnitRunerOverload.deps.json
+C:\Users\NEW-PC-HOME\RiderProjects\WireMockTest\XUnitRunerOverload\bin\Debug\net7.0\XUnitRunerOverload.runtimeconfig.json
+C:\Users\NEW-PC-HOME\RiderProjects\WireMockTest\XUnitRunerOverload\bin\Debug\net7.0\XUnitRunerOverload.dll
+C:\Users\NEW-PC-HOME\RiderProjects\WireMockTest\XUnitRunerOverload\bin\Debug\net7.0\XUnitRunerOverload.pdb
+C:\Users\NEW-PC-HOME\RiderProjects\WireMockTest\XUnitRunerOverload\obj\Debug\net7.0\XUnitRunerOverload.csproj.AssemblyReference.cache
+C:\Users\NEW-PC-HOME\RiderProjects\WireMockTest\XUnitRunerOverload\obj\Debug\net7.0\XUnitRunerOverload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NEW-PC-HOME\RiderProjects\WireMockTest\XUnitRunerOverload\obj\Debug\net7.0\XUnitRunerOverload.AssemblyInfoInputs.cache
+C:\Users\NEW-PC-HOME\RiderProjects\WireMockTest\XUnitRunerOverload\obj\Debug\net7.0\XUnitRunerOverload.AssemblyInfo.cs
+C:\Users\NEW-PC-HOME\RiderProjects\WireMockTest\XUnitRunerOverload\obj\Debug\net7.0\XUnitRunerOverload.csproj.CoreCompileInputs.cache
+C:\Users\NEW-PC-HOME\RiderProjects\WireMockTest\XUnitRunerOverload\obj\Debug\net7.0\XUnitRunerOverload.dll
+C:\Users\NEW-PC-HOME\RiderProjects\WireMockTest\XUnitRunerOverload\obj\Debug\net7.0\refint\XUnitRunerOverload.dll
+C:\Users\NEW-PC-HOME\RiderProjects\WireMockTest\XUnitRunerOverload\obj\Debug\net7.0\XUnitRunerOverload.pdb
+C:\Users\NEW-PC-HOME\RiderProjects\WireMockTest\XUnitRunerOverload\obj\Debug\net7.0\XUnitRunerOverload.genruntimeconfig.cache
+C:\Users\NEW-PC-HOME\RiderProjects\WireMockTest\XUnitRunerOverload\obj\Debug\net7.0\ref\XUnitRunerOverload.dll
